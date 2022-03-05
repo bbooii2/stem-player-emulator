@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Stem Player Emulator
-// @namespace    https://www.stemplayer.com/
+// @namespace    https://www.stemplay.com/
 // @version      0.7
 // @description  Emulator for Kanye West's stem player
 // @author       krystalgamer
-// @match        https://www.stemplayer.com/*
+// @match        https://www.stemplay.com/*
 // @match        https://www.kanyewest.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=stemplayer.com
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=stemplay.com
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
